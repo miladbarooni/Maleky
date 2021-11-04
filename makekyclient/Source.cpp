@@ -137,7 +137,7 @@ void help_function()
 	print_in_help_screen("'join group' ==> to join a group via entering its name if it exist");
 	print_in_help_screen("'join channel' ==> to join a channel via entering its name if it exist");
 	print_in_help_screen("'show messages ==> to show last messages of a group , channel or pv");
-	print_in_help_screen("'log out' ==> to log out from you account and program")
+	print_in_help_screen("'log out' ==> to log out from you account and program");
 	
 	system("pause");
 }
